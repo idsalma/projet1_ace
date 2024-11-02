@@ -4,5 +4,12 @@ Ce projet est un exemple de code avec une vidéo de démonstration.
 
 ## Vidéo de démonstration
 
-Vous pouvez télécharger et visionner la vidéo de démonstration [ici](video/résultat.mkv).
-git add README.md
+Vous pouvez regarder la vidéo de démonstration ici : [Regarder la vidéo](https://drive.google.com/file/d/1XiLQoGJKjuzzzUkZPFA2fPnBGslF9omS/view?usp=sharing).
+
+## Comment utiliser
+
+Instructions sur la façon d'utiliser le code.
+
+## Technologies utilisées
+
+- Liste des technologies que vous avez utilisées (Java, Maven, etc.)

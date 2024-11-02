@@ -4,5 +4,5 @@ Ce projet est un exemple de code avec une vidéo de démonstration.
 
 ## Vidéo de démonstration
 
-Voici le lien vers la vidéo : [Résultat vidéo](video/résultat.mkv)
-
+Vous pouvez télécharger et visionner la vidéo de démonstration [ici](video/résultat.mkv).
+git add README.md
